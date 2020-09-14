@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name":"Christian North",
+    "occupation":"Innovation Management Graduate",
+    "description":"I will be graduating in 2021 and I possess a strong penchant for people-based technology and products. You can expect from tenacity, clarity, and above all else empathy",
+    "image":"lake.jpg",
+    "bio":"My philosophy has always been aim for the sun and land in the clouds. I've lived this by striving to the best but embracing and observing reality. My greatest strength comes from the insights I've gained about people. From my time as a bartender - where I used my customer experience to propose and implement a business plan to the owner; to psychological profiles I've observed working as a consultant for non-profits, I've come to understand the most important variables, assets, and factors, are people.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "christian.north@tufts.edu",
+    "phone": "770-508-3740",
+    "address":{
+      "street":"40 Stanley Avenue",
+      "city":"Medford",
+      "state":"MA",
+      "zip": "02155"
+    },
+    "website": "http://www.christiannorth.com",
+    "resumedownload":"http://christiannorth.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/juhyuk.kim/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/cardinalnorth11",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/christiannorth/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/wakeup_mr_north/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Poombo",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have worked in a variety of different industries such as: consulting, non-profits, web-development, and the public sector.",
+    "education":[
+      {
+        "school":"Tufts Gordon Institute",
+        "degree":"Masters in Innovation Management",
+        "graduated":"(pursuing) May 2021",
+        "description":"The Tufts M.S. in Innovation and Management (MSIM) is an intensive full-time professional master’s program designed for recent STEM graduates or young professionals with a strong desire to drive innovation and solve problems that matter. Through this program, I have attained and mastered product innovation, marketing, finance and leadership skills needed to drive impact in today’s technology-driven world."
+      },
+      {
+        "school":"Tufts University",
+        "degree":"Cognitive Brain Science",
+        "graduated":"May 2020",
+        "description":"CBS is an interdiscplinary major converging on the fields of cognitive neuroscience, computer science, and philosphy. In this program I gained a foundation in the fields of behavioral psyhcology, data structures and algorithms, and ethics. I also done projects on technology such as AI, Deep Learning, and neural interfaces."
+      }
+    ],
+    "work":[
+      {
+        "company":"General Services Administration (GSA)",
+        "title":"Emerging Leaders Co-op",
+        "years":"May 2019 – January 2020",
+        "description":" Here I generated savings of $50,000 by developing and implementing a VBA script in excel to identify and terminate redundant contracts; refreshed a government solicitation guide to modern standards, using data gleaned from excel analysis toolpak; and secured four contracts, totaling $100,000, through research and negotiation with vendors and small businesses"
+      },
+      {
+        "company":"GCN Consulting Group",
+        "title":"Summer Associate",
+        "years":"May 2018 – August 2019",
+        "description":"Here I Increased a non-profit’s Q3 income by $80,000; created a fundraising campaign based on community impact model. I also worked with a county NPO and increased community satisfaction rating by >30% and community impact KPIs by >200% by: developing strategic plan and outline for a county NPO, reducing number of board members from 56 to 24 to reduce congestion of the impact delivery process, and restructuring their organization by repurposing committees into impact-focused task forces"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Django MVC framework",
+        "level":"65%"
+      },
+      {
+        "name":"React.js",
+        "level":"35%"
+      },
+      {
+        "name":"Python",
+        "level":"55%"
+      },
+      {
+        "name":"C++",
+        "level":"20%"
+      },
+      {
+        "name":"Javascript",
+        "level":"30%"
+      },
+      {
+        "name":"Relational Databases",
+        "level":"50%"
+      },
+      {
+        "name":"Market Research and Interviewing",
+        "level":"85%"
+      },
+      {
+        "name":"Product Innovation",
+        "level":"75%"
+      },
+      {
+        "name":"Marketing Frameworks and Applications",
+        "level":"70%"
+      },      
+      {
+        "name":"Entrepreneurial Finance",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Gerhman's Dilemma",
+        "category":"A Interactive Online Story I am Releasing a Chapter at a Time.",
+        "image":"GD.jpg",
+        "url":"http://www.gdilemma.com"
+      },
+      {
+        "title":"PostPourri",
+        "category":"A social media site designed to lessen social pressures for my friend group.",
+        "image":"postpourri.jpg",
+        "url":"http://www.postpourri.com"
+      },
+      {
+        "title":"Tufts KSA",
+        "category":"The Tufts Korean Student Assocation - organization I've poured love and passion into for 4 years.",
+        "image":"Tufts KSA.jpg",
+        "url":"https://ase.tufts.edu/ksa/about.html"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
